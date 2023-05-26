@@ -20,6 +20,7 @@ MxDb.Version=DB.6.0.81
 NVIC.ForceEnableDMAVector=true
 NVIC.HardFault_IRQn=true\:0\:0\:false\:false\:true\:false\:false\:false
 NVIC.NonMaskableInt_IRQn=true\:0\:0\:false\:false\:true\:false\:false\:false
+NVIC.PVD_IRQn=true\:0\:0\:false\:false\:true\:true\:true\:true
 NVIC.PendSV_IRQn=true\:0\:0\:false\:false\:true\:false\:false\:false
 NVIC.SVC_IRQn=true\:0\:0\:false\:false\:true\:false\:false\:true
 NVIC.SysTick_IRQn=true\:3\:0\:false\:false\:true\:false\:true\:false
